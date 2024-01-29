@@ -43,7 +43,7 @@ function App() {
               </a>
             </section>
             <div className='img-proj-um'>
-              <img className='img-iasd-A' src="../src/assets/celular.png" alt="celular" />
+              <img className='img-iasd-A' src="./assets/celular.png" alt="celular" />
               <img className='img-iasd-a' src="../src/assets/iasd_central_cambe_a.png" alt="" />
               <img className='img-iasd-B' src="../src/assets/celular.png" alt="celular" />
               <img className='img-iasd-b' src="../src/assets/iasd_central_cambe_b.png" alt="" />
